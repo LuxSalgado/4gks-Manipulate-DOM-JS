@@ -187,7 +187,7 @@
         {
             "slug": "14-Todo-List",
             "title": "14-Todo-List",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Todo-List",
             "translations": [
                 "es",
