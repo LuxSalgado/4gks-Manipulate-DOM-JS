@@ -176,7 +176,7 @@
         {
             "slug": "13-Add-Options-to-the-Select",
             "title": "13-Add-Options-to-the-Select",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Add-Options-to-the-Select",
             "translations": [
                 "es",
